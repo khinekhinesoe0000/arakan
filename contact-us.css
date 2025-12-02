@@ -1,0 +1,46 @@
+
+.images-center{
+    text-align: center;
+    margin-top: 100px;
+}
+.body-width{
+    width: 60%;
+    margin: auto;
+}
+.input-form{
+   width: 400px;
+   height: 40px;
+   border-radius: 5px;
+   border:1px solid #6395bb;
+   margin-top: 10px;
+}
+.group-body{
+    display: flex;
+    gap: 40px;
+    width: 60%;
+    margin: auto;
+    margin-top: 100px;
+}
+.message-form{
+    border-radius: 5px;
+    width: 400px;
+    /* height: 150px; */
+    padding-bottom: 150px;
+    padding-top: 10px;
+    margin-top: 10px;
+   border:1px solid #6395bb;
+   
+
+}
+button{
+    width: 400px;
+    height: 40px;
+    background-color: #3368db;
+    border-radius: 5px;
+    color: white;
+    margin-top: 10px;
+}
+.width-50{
+    width: 50px;
+}
+
